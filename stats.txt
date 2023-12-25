@@ -1,0 +1,6 @@
+Sorting the file named test12.txt
+The number of cache hits: 12490907
+The number of disk reads: 9828
+The number of disk writes: 5576
+Execution Time: 689 ms
+

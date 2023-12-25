@@ -1,0 +1,6 @@
+Sorting the file named test9.txt
+The number of cache hits: 30817670
+The number of disk reads: 10553
+The number of disk writes: 10551
+Execution Time: 2064 ms
+
